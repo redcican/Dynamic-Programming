@@ -1,5 +1,3 @@
-# Dynamic-Programming
-
 # Memorization Recipe
 
 ## 1. Make it work.
